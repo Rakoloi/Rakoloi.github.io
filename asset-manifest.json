@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rakoloi.github.io/static/css/main.34beac37.css",
+    "main.js": "/Rakoloi.github.io/static/js/main.31e390f8.js",
+    "index.html": "/Rakoloi.github.io/index.html",
+    "main.34beac37.css.map": "/Rakoloi.github.io/static/css/main.34beac37.css.map",
+    "main.31e390f8.js.map": "/Rakoloi.github.io/static/js/main.31e390f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34beac37.css",
+    "static/js/main.31e390f8.js"
+  ]
+}
