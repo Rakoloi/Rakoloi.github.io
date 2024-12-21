@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Rakoloi-Web/static/css/main.34beac37.css",
-    "main.js": "/Rakoloi-Web/static/js/main.31e390f8.js",
+    "main.js": "/Rakoloi-Web/static/js/main.c49be9f9.js",
     "index.html": "/Rakoloi-Web/index.html",
     "main.34beac37.css.map": "/Rakoloi-Web/static/css/main.34beac37.css.map",
-    "main.31e390f8.js.map": "/Rakoloi-Web/static/js/main.31e390f8.js.map"
+    "main.c49be9f9.js.map": "/Rakoloi-Web/static/js/main.c49be9f9.js.map"
   },
   "entrypoints": [
     "static/css/main.34beac37.css",
-    "static/js/main.31e390f8.js"
+    "static/js/main.c49be9f9.js"
   ]
 }
